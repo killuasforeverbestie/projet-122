@@ -1,0 +1,43 @@
+body{
+text-align: center;
+background-color: lightcoral;
+}
+li img{
+width: 200px;
+height: 200px;
+border-radius: 13px;
+}
+ol h5{
+background: rgb(116, 195, 221);
+padding:15px;
+border-radius: 25px;
+
+}
+span{
+color: rgb(144, 14, 14);
+font-size: 18px;
+
+}
+
+.test_image_and_result{
+    background: lightpink;
+    padding:30px;
+    border-radius: 13px;
+    margin-top: 15px;
+    box-shadow: 5px 5px 20px lightgreen;
+
+}
+
+b{
+color: rgb(135, 55, 135);
+}
+
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    text-align:center;
+    color: rgb(147, 252, 252);
+    background-color: lightslategray;
+}
